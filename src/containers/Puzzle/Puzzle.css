@@ -1,0 +1,14 @@
+.puzzle_container{
+   height: 600px;
+}
+
+.puzzle_container img{
+    object-fit: cover !important;
+}
+.puzzle{
+margin:30px auto;
+}
+.puzzle img{
+    margin:0px 2px;
+    object-fit: cover;
+} 
